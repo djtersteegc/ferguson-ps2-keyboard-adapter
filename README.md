@@ -1,4 +1,4 @@
-![keyboard-adapter](docs\keyboard-adapter.jpg)
+![keyboard-adapter](docs/keyboard-adapter.jpg)
 
 PS/2 to parallel keyboard adapter designed to plug into the 26 pin header of a Ferguson Big Board Z80 SBC. Based on the work shared by [enrico](https://forum.vcfed.org/index.php?members/enrico.5315/) here, https://forum.vcfed.org/index.php?threads/ferguson-big-board-1-monitor-rom.32705/#post-405189
 
